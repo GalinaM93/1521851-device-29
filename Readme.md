@@ -1,7 +1,7 @@
 # Личный проект «Девайс»
 
 * Студент: [Галина Маркова](https://up.htmlacademy.ru/htmlcss/29/user/1521851).
-* Наставник: `Павел Бубликов`(https://htmlacademy.ru/profile/pbuba).
+* Наставник: [Павел Бубликов](https://htmlacademy.ru/profile/pbuba).
 
 ---
 
